@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rafael Araújo</h1>
 <h3 align="center">A passionate DevOps Engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=araujotech&label=Profile%20views&color=0e75b6&style=flat" alt="araujotech" /> </p>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 <p align="left"> <a href="https://twitter.com/raffasarts" target="blank"><img src="https://img.shields.io/twitter/follow/raffasarts?logo=twitter&style=for-the-badge" alt="raffasarts" /></a> </p>
 
