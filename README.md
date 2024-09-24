@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/raffasarts" target="blank"><img src="https://img.shields.io/twitter/follow/raffasarts?logo=twitter&style=for-the-badge" alt="raffasarts" /></a> </p>
 
-- 🔭 I’m currently working on [EZOps.cloud](https://ezops.cloud)
+
 
 - 🌱 I’m currently learning **Terraform, python, kubernetes**
 
